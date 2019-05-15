@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+}
+
+.sec01 {}
+
+.sec02 {}
+
+.carousel {
+    width: 100%;
+    height: 100%;
+}
+
+.g {
+    padding-top: 200px;
+}
+
+.container {
+    margin-left: 0px;
+    background-color: green;
+}
+
+.c {
+    width: 10%;
+    height: 10%;
+}
+
+.m {
+    width: 5%;
+    height: 5%;
+}
+
+h4 {
+    font-family: "Microsoft JhengHei";
+}
+
+h6 {
+    float: left;
+}
+
+.k {
+    background-color: blanchedalmond;
+    padding-bottom: 30px;
+}
+
+.b {
+    position: relative;
+}
+
+.w {
+    margin: auto;
+}
